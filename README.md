@@ -4,12 +4,13 @@
 
 > Description the project.
 
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- Redux
+- SASS & CSS
+- JavaScript
+- Jest
 
 ## Live Demo (if available)
 
@@ -18,39 +19,26 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+start by cloning the repository.
 
+`https://github.com/VTY1999/React-Capstone.git`
 
-To get a local copy up and running follow these simple example steps.
+install all the dependencies.
 
-### Prerequisites
+`npm install`
 
-### Setup
+run the live server
 
-### Install
+`npm run start`
 
-### Usage
+go to [http://localhost:3000](http://localhost:3000)
+## Author
 
-### Run tests
+👤 **Verissimo Francis**
 
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/VTY1999)
+- Twitter: [@twitterhandle](https://twitter.com/verissimoty?s=09)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-o-verissimo/)
 
 ## 🤝 Contributing
 
@@ -64,9 +52,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- inspiration from Microverse
+https://github.com/microverseinc/curriculum-react-redux/blob/main/capstone/react_capstone.md
+- [Original design idea by Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
 
 ## 📝 License
 
