@@ -1,0 +1,94 @@
+.continents {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+}
+
+.continents li {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 0 0 1px #fff1;
+}
+
+.continents li a {
+  display: flex;
+  width: 100%;
+  padding: 50px;
+  height: 100%;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 500ms ease-in;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.continents li a:hover,
+.continents li a:active {
+  transform: scale(0.8);
+}
+
+.continents li:nth-child(4n + 1) {
+  background-color: var(--primary-color);
+}
+
+.continents li:nth-child(4n + 2) {
+  background-color: var(--tertiary-color);
+}
+
+.continents li:nth-child(4n + 3) {
+  background-color: var(--tertiary-color);
+}
+
+.continents li:nth-child(4n + 4) {
+  background-color: var(--primary-color);
+}
+
+.continents li small {
+  background-color: transparent;
+  pointer-events: none;
+  position: absolute;
+  bottom: 10%;
+  left: 40%;
+  transform: translateX(-50%);
+  opacity: 0.4;
+  font-size: 16px;
+  text-align: center;
+}
+
+.africa {
+  height: 80%;
+  width: 40%;
+  background-color: transparent;
+}
+
+.asia {
+  height: 80%;
+  width: 40%;
+  background-color: transparent;
+}
+
+.southamerica {
+  height: 80%;
+  width: 40%;
+  background-color: transparent;
+}
+
+.northamerica {
+  height: 80%;
+  width: 40%;
+  background-color: transparent;
+}
+
+.europe {
+  height: 80%;
+  width: 40%;
+  background-color: transparent;
+}
+
+.oceania {
+  height: 80%;
+  width: 40%;
+  background-color: transparent;
+}

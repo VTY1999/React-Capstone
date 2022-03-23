@@ -4,6 +4,8 @@
 
 > This webapp tracks air pollution in more than 20 countries drawing data from an API([Air polution API](https://openweathermap.org/api/air-pollution))
 
+![Screenshot](https://github.com/VTY1999/React-Capstone/blob/Build-app/src/images/Screenshot%20(127).png)
+
 ## Built With
 
 - React
@@ -16,6 +18,8 @@
 
 [Live Demo Link](https://verissimofrancis-air-pollution.netlify.app)
 
+## Presentation
+[Video](https://drive.google.com/file/d/11qEkVNatesN5UV7GqdPqKpB-wpuC3cLI/view?usp=sharing)
 
 ## Getting Started
 
