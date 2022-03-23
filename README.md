@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Air pollution webapp
 
-> Description the project.
+> This webapp tracks air pollution in more than 20 countries drawing data from an API([Air polution API](https://openweathermap.org/api/air-pollution))
 
 ## Built With
 
@@ -12,9 +12,9 @@
 - JavaScript
 - Jest
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://verissimofrancis-air-pollution.netlify.app)
 
 
 ## Getting Started
